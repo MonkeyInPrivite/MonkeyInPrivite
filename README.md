@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm somewhat active on Github... kinda. I can't code to save my life but I'll still try (lol).
+I'm somewhat active on GitHub... kinda. I can't code to save my life but I'll still try (lol).
 I'm also very active in the Kindle Modding Community, so ping me if you need support there!
 <!--
 **MonkeyInPrivite/MonkeyInPrivite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
